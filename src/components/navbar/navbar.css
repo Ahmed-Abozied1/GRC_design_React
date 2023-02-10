@@ -93,9 +93,10 @@
 .gpt3__navbar-menu__container p {
   margin: 1rem 0;
 }
-
+ 
 .gpt3__navbar-menu__container-links-sign {
   display: none;
+  
 }
 @media screen and (max-width: 1050px) {
   .gpt3__navbar-links__container{
@@ -110,6 +111,7 @@ display: none;
     .gpt3__navbar{
   padding: 2rem 4rem;
     }
+   
    
   }
   @media screen and (max-width: 550px) {
