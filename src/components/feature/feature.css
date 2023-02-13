@@ -36,7 +36,7 @@
   max-width: 390px;
   display: flex;
 }
-.gpt3__features-container__feature-text p{
+.gpt3__features-container__feature-text p {
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 14px;
@@ -44,16 +44,16 @@
 
   color: var(--color-text);
 }
-@media screen and (min-width: 450px){
-    .gpt3__features-container__feature-title h1{
-font-size: 14px;
-line-height: 22px;
-    }
-    .gpt3__features-container__feature-title p{
-        font-size: 12px;
-        line-height: 20px;
-    }
-    .gpt3__features-container__feature {
-        margin: 1rem 0;
-    }
+@media screen and (min-width: 550px) {
+  .gpt3__features-container__feature-title h1 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .gpt3__features-container__feature-title p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .gpt3__features-container__feature {
+    margin: 1rem 0;
+  }
 }
