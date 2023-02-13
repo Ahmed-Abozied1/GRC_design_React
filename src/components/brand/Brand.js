@@ -5,7 +5,7 @@ const Brand = () => {
   return (
     <div>
 
-    <div className='gpt3_brand'>
+    <div className='gpt3__brand'>
      <div>
      <img src={google} alt=
         "Google"
