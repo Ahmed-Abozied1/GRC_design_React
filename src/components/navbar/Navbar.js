@@ -2,23 +2,22 @@ import React, { useState } from "react";
 import "./navbar.css";
 import { RiMenu3Fill, RiCloseLine } from "react-icons/ri";
 import logo from "../../assets/GPT-3.svg";
-import { Link } from "react-router-dom";
 const Menu = () => (
   <>
     <p>
-      <a href="/">Home</a>
+      <a href="#home">Home</a>
     </p>
     <p>
-      <a href="/wgpt">What is Gpt?</a>
+      <a href="#whpt3">What is Gpt?</a>
     </p>
     <p>
-      <a href="/possibility">open AI</a>
+      <a href="#possibility">open AI</a>
     </p>
     <p>
-      <a href="/features">Case Studies</a>
+      <a href="#features">Case Studies</a>
     </p>
     <p>
-      <a href="/blog">Library </a>
+      <a href="#blog">Library </a>
     </p>
   </>
 );
