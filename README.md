@@ -73,4 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![gpt3_Blog](https://user-images.githubusercontent.com/105151133/219206898-f0a9b30e-16c1-46c9-b037-c309caa640f3.png)
 ![gpt3_footer](https://user-images.githubusercontent.com/105151133/219206944-14ca5994-bd06-461b-8df1-3f9a7bb6f2c8.png)
 
+Live: https://gpt3-react-design-nx9vi6szf-ahmed-abozied1.vercel.app/
 
